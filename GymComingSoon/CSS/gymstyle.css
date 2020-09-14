@@ -1,0 +1,41 @@
+body {
+    
+    background: url("../Images/bg_gym.jpg")
+        no-repeat center center fixed;
+        background-size:cover;
+        
+}
+
+div {
+    
+    background-color: grey;
+    width: 60%;
+    margin: 100px auto;
+    text-align: center;
+    opacity: .8;
+    border-radius: 25px;
+    
+}
+
+button{
+    background:white;
+    padding:20px;
+    color: whote;
+    font-size: 2em;
+    border-radius: 10px;
+    
+}
+
+h1 {
+    
+    font-size: 4em;
+}
+
+p {
+    font-size: 1.8em;
+    color: 
+}
+
+i{
+    color: black;
+}
